@@ -1,1 +1,2 @@
 0121. ✨ feat: support email verification
+0576. ♻️ chore: update .gitignore
