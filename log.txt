@@ -2,3 +2,4 @@
 0576. ♻️ chore: update .gitignore
 0425. 🔧 refactor: refactor quiz grading logic
 0573. ✅ test: add integration test for /submit endpoint
+0766. 🎨 style: reformat files with black
