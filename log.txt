@@ -17,3 +17,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0458. ✨ feat: create admin dashboard
 0174. 📚 docs: clarify environment setup
+0215. 🎨 style: reformat files with black
