@@ -19,3 +19,4 @@
 0174. 📚 docs: clarify environment setup
 0215. 🎨 style: reformat files with black
 0191. 🔧 refactor: refactor quiz grading logic
+0229. 🚀 perf: optimize database query for quiz results
