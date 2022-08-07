@@ -30,3 +30,4 @@
 0911. ✅ test: increase coverage on auth module
 0108. 🎨 style: remove trailing whitespace
 0756. ✨ feat: support email verification
+0426. ✅ test: add integration test for /submit endpoint
