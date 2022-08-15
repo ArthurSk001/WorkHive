@@ -31,3 +31,4 @@
 0108. 🎨 style: remove trailing whitespace
 0756. ✨ feat: support email verification
 0426. ✅ test: add integration test for /submit endpoint
+0610. 🚀 perf: lazy-load components
