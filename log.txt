@@ -37,3 +37,4 @@
 0239. 🎨 style: standardize quote style
 0283. ♻️ chore: add GitHub actions badge
 0653. 🐛 fix: prevent crash on empty input
+0033. 🎨 style: apply consistent indentation
