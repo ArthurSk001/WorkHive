@@ -50,3 +50,4 @@
 0881. 🔧 refactor: split large controller into smaller functions
 0770. ♻️ chore: rename env.example
 0623. 🎨 style: standardize quote style
+0349. ✅ test: increase coverage on auth module
