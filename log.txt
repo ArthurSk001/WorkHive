@@ -59,3 +59,4 @@
 0562. 🔧 refactor: clean up auth middleware
 0948. 🐛 fix: fix broken CSS in mobile view
 0312. ✨ feat: add user authentication
+0442. 🎨 style: standardize quote style
