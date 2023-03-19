@@ -60,3 +60,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0312. ✨ feat: add user authentication
 0442. 🎨 style: standardize quote style
+0903. ✅ test: mock database connection in test suite
