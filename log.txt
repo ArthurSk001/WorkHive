@@ -61,3 +61,4 @@
 0312. ✨ feat: add user authentication
 0442. 🎨 style: standardize quote style
 0903. ✅ test: mock database connection in test suite
+0027. 📚 docs: clarify environment setup
