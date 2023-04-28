@@ -65,3 +65,4 @@
 0526. ✨ feat: add user authentication
 0528. ♻️ chore: clean up unused files
 0487. 🎨 style: reformat files with black
+0614. 🚀 perf: reduce image load time
