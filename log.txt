@@ -66,3 +66,4 @@
 0528. ♻️ chore: clean up unused files
 0487. 🎨 style: reformat files with black
 0614. 🚀 perf: reduce image load time
+0054. ♻️ chore: update .gitignore
