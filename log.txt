@@ -75,3 +75,4 @@
 0567. 📚 docs: add API usage examples
 0336. ✨ feat: add export to CSV option
 0508. ✅ test: add unit test for quiz service
+0947. 📚 docs: write FAQ section
