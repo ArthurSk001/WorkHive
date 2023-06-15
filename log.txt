@@ -78,3 +78,4 @@
 0947. 📚 docs: write FAQ section
 0037. 🐛 fix: correct typo in registration form
 0522. 🐛 fix: handle 500 error in quiz API
+0985. 📚 docs: document token refresh logic
