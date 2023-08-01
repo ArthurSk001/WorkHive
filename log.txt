@@ -87,3 +87,4 @@
 0964. ♻️ chore: clean up unused files
 0406. ✨ feat: add export to CSV option
 0987. ✨ feat: create admin dashboard
+0471. ✨ feat: support email verification
