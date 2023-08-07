@@ -89,3 +89,4 @@
 0987. ✨ feat: create admin dashboard
 0471. ✨ feat: support email verification
 0357. ✅ test: add unit test for quiz service
+0489. 🔧 refactor: organize models into subfolders
