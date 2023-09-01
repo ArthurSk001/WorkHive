@@ -94,3 +94,4 @@
 0011. ✅ test: add unit test for quiz service
 0196. ♻️ chore: bump dependencies
 0762. 🚀 perf: lazy-load components
+0058. ♻️ chore: add GitHub actions badge
