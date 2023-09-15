@@ -96,3 +96,4 @@
 0762. 🚀 perf: lazy-load components
 0058. ♻️ chore: add GitHub actions badge
 0620. ✨ feat: implement quiz timer feature
+0942. ✅ test: increase coverage on auth module
