@@ -103,3 +103,4 @@
 0995. ✅ test: mock database connection in test suite
 0068. 🐛 fix: fix null pointer exception on login
 0418. ✅ test: mock database connection in test suite
+0720. ✨ feat: add export to CSV option
