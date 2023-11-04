@@ -106,3 +106,4 @@
 0720. ✨ feat: add export to CSV option
 0782. 📚 docs: improve code comments in utils
 0211. 🔧 refactor: remove redundant code blocks
+0842. 🎨 style: remove trailing whitespace
