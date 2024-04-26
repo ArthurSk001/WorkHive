@@ -126,3 +126,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0891. ✨ feat: create admin dashboard
 0835. 🐛 fix: prevent crash on empty input
+0232. 🎨 style: apply consistent indentation
