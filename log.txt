@@ -129,3 +129,4 @@
 0232. 🎨 style: apply consistent indentation
 0407. 🚀 perf: cache repeated calculations
 0783. 🐛 fix: handle 500 error in quiz API
+0787. ♻️ chore: rename env.example
