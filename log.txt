@@ -130,3 +130,4 @@
 0407. 🚀 perf: cache repeated calculations
 0783. 🐛 fix: handle 500 error in quiz API
 0787. ♻️ chore: rename env.example
+0062. ♻️ chore: update .gitignore
