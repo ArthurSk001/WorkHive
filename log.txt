@@ -132,3 +132,4 @@
 0787. ♻️ chore: rename env.example
 0062. ♻️ chore: update .gitignore
 0818. 🔧 refactor: remove redundant code blocks
+0122. ✨ feat: support email verification
