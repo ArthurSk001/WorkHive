@@ -138,3 +138,4 @@
 0563. 📚 docs: clarify environment setup
 0665. ♻️ chore: update .gitignore
 0901. ✨ feat: add user authentication
+0482. ✨ feat: add export to CSV option
