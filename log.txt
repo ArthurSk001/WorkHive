@@ -137,3 +137,4 @@
 0093. ✅ test: add unit test for quiz service
 0563. 📚 docs: clarify environment setup
 0665. ♻️ chore: update .gitignore
+0901. ✨ feat: add user authentication
