@@ -146,3 +146,4 @@
 0275. 🎨 style: standardize quote style
 0580. ♻️ chore: bump dependencies
 0746. ♻️ chore: add GitHub actions badge
+0485. 📚 docs: update README with setup steps
