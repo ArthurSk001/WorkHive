@@ -152,3 +152,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0297. 🎨 style: remove trailing whitespace
 0375. 🐛 fix: handle 500 error in quiz API
+0430. 🐛 fix: fix null pointer exception on login
