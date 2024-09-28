@@ -158,3 +158,4 @@
 0060. ♻️ chore: clean up unused files
 0697. ♻️ chore: bump dependencies
 0710. 🐛 fix: fix broken CSS in mobile view
+0361. ✨ feat: support email verification
