@@ -159,3 +159,4 @@
 0697. ♻️ chore: bump dependencies
 0710. 🐛 fix: fix broken CSS in mobile view
 0361. ✨ feat: support email verification
+0206. 🐛 fix: handle 500 error in quiz API
