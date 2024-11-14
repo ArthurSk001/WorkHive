@@ -165,3 +165,4 @@
 0644. 🎨 style: apply consistent indentation
 0981. 🚀 perf: lazy-load components
 0944. ✨ feat: add user authentication
+0808. 🚀 perf: optimize database query for quiz results
