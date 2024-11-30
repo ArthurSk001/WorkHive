@@ -167,3 +167,4 @@
 0944. ✨ feat: add user authentication
 0808. 🚀 perf: optimize database query for quiz results
 0090. ✅ test: increase coverage on auth module
+0324. 📚 docs: document token refresh logic
