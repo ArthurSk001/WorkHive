@@ -169,3 +169,4 @@
 0090. ✅ test: increase coverage on auth module
 0324. 📚 docs: document token refresh logic
 0221. ✨ feat: add user authentication
+0468. 📚 docs: update README with setup steps
