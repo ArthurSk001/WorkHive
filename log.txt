@@ -170,3 +170,4 @@
 0324. 📚 docs: document token refresh logic
 0221. ✨ feat: add user authentication
 0468. 📚 docs: update README with setup steps
+0824. 🚀 perf: lazy-load components
