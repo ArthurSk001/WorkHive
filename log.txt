@@ -171,3 +171,4 @@
 0221. ✨ feat: add user authentication
 0468. 📚 docs: update README with setup steps
 0824. 🚀 perf: lazy-load components
+0682. ♻️ chore: rename env.example
