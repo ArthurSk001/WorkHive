@@ -185,3 +185,4 @@
 0657. 🎨 style: standardize quote style
 0262. 🎨 style: remove trailing whitespace
 0131. 📚 docs: write FAQ section
+0923. ✨ feat: support email verification
