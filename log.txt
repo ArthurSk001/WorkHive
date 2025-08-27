@@ -196,3 +196,4 @@
 0755. 🚀 perf: cache repeated calculations
 0819. 🚀 perf: reduce image load time
 0223. 🔧 refactor: remove redundant code blocks
+0751. 🐛 fix: handle 500 error in quiz API
